@@ -1,4 +1,4 @@
-# PROJETO-OrfanatoRLuz
+# Projeto Orfanato Raio de Luz
 Trabalho apresentado às disciplinas de Banco de Dados II e Linguagem de Programação II como requisito para a obtenção de nota da 3° unidade do 3° ano do ensino médio técnico no Instituto Federal da Bahia. Orientadores: Fabio Marques e Fernanda Regebe.
 Sistema em **Java (NetBeans)** com **MySQL** para gerenciar um orfanato: crianças, adoções, funcionários, voluntários, finanças, saúde, educação e estoque.
 
